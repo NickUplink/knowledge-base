@@ -4,15 +4,72 @@ description: 'Slack has become our "club house", where all threads come together
 
 # Our Slack workspace
 
-[Back in November 2017, we decided to create a Slack workspace for all our members](https://medium.com/uplink-it-freelancer-network/lets-move-to-slack-86558368e6d8) and use it as our primary communication channel for job offers, meetup invitations, public announcements, and everything else that we wanted to relay to our members. This has turned out to be a good decision, because the fantastic [Slack API](https://api.slack.com/) has allowed us to automate many things, including most of the job application process.
+[Back in November 2017, we decided to create a Slack workspace for all our members](https://medium.com/uplink-it-freelancer-network/lets-move-to-slack-86558368e6d8) and use it as our primary communication channel for job postings, meetup invitations, public announcements, and everything else that we wanted to relay to our members. This has turned out to be a good decision, because the fantastic [Slack API](https://api.slack.com/) has allowed us to automate many things, including most of the job application process.
 
 ## Public channels
 
-The following public channels are open to every
+The following public channels are open for all members:
+
+* **\#general** - General chit-chat, ideas, questions, banter… don’t hold back!
+* **\#business** - Let’s talk about taxes, finances, insurance, freelancer registration and company incorporation! Feel free to ask for help if you’re new to the game!
+* **\#events** - Are you planning to attend a meetup or conference soon? Let the other Uplink members know! Upcoming Uplink meetups and events will also be posted here.
+* **\#ideas** - Do you have an idea for a new project/service/business? Share it here to get feedback!
+* **\#investing** - Chat about where to be invest your hard-earned money, be it in stocks, bonds, ETF, crypto etc.
+* **\#labs** - If you’re interested to hear what the Uplink team is working on and give feedback on ideas for new features, join this channel!
+* **\#random** - Post anything not directly related to freelancing, business or developing here. Fun links, memes, challenges…
+* **\#tech-backend -** Let’s talk about backend development! Languages, frameworks, concepts etc.
+* **\#tech-blockchain -** Let’s talk about Blockchain development! BTC, ETH, Solidity etc.
+* **\#tech-devops -** Let’s talk about DevOps! CI/CD, Docker, Kubernetes, etc.
+* **\#tech-fontend -** Let’s talk about frontend development! The latest JavaScript frameworks, design tools, static websites etc.
+* **\#tech-gaming -** Let’s talk about game development!
+* **\#tech-mobile -** Let’s talk about mobile development! Android, iOS, Hybrid, etc.
+* **\#lang-rust -** Everything about the Rust language.
+* **\#city-berlin -** Talk to other developers in Berlin about the local IT scene, events, coworking spaces, companies etc.
+* **\#city-frankfurt -** Talk to other developers in Frankfurt about the local IT scene, events, coworking spaces, companies etc.
+* **\#city-hamburg -** Talk to other developers in Hamburg about the local IT scene, events, coworking spaces, companies etc.
+* **\#city-muenchen -** Talk to other developers in München about the local IT scene, events, coworking spaces, companies etc.
+* **\#city-wien -** Talk to other developers in Wien about the local IT scene, events, coworking spaces, companies etc.
 
 ## Job channels
 
+* **\#jobs**
+
+### Jobs by location
+
+* **\#jobs-berlin**
+* **\#jobs-hamburg**
+* **\#jobs-frankfurt**
+* **\#jobs-muenchen**
+* **\#jobs-remote**
+
+### Jobs by technologies/skills
+
+* **\#jobs-cms**
+* **\#jobs-devops**
+* **\#jobs-ecommerce**
+* **\#jobs-pm-agile**
+* **\#jobs-ui-ux**
+* **\#jobs-be**
+* **\#jobs-be-cpp**
+* **\#jobs-be-dotnet**
+* **\#jobs-be-go**
+* **\#jobs-be-java**
+* **\#jobs-be-node**
+* **\#jobs-be-php**
+* **\#jobs-be-python**
+* **\#jobs-be-ruby**
+* **\#jobs-fe**
+* **\#jobs-fe-angular**
+* **\#jobs-fe-react**
+* **\#jobs-fe-vue**
+* **\#jobs-mb**
+* **\#jobs-mb-android**
+* **\#jobs-mb-ios**
+* **\#jobs-mb-hybrid**
+
 ## Applying for a job
+
+Nowadays, almost all job applications are done via Slack, since the process is so much smoother with our optimized workflow than it is via email!
 
 ## Restrictions
 
