@@ -32,7 +32,7 @@ The following public channels are open for all members:
 
 ## Job channels
 
-Once a new job is published, it is posted to one or \(most of the times\) more job channels, where all members can apply for it. As a member, you can simply join the channels you are interested in \(e.g., if you'd only like to hear about jobs with React.js or Java, join **\#jobs-fe-react** and **\#jobs-be-java**\) and you will receive a mobile or desktop notification from Slack when a new job ist posted.
+Once a new job is published, it is posted to one or \(most of the time\) multiple job channels, where all members can apply for it. As a member, you can simply join the channels you are interested in \(e.g., if you'd only like to hear about jobs with React.js or Java, join **\#jobs-fe-react** and **\#jobs-be-java**\) and you will receive a mobile or desktop notification from Slack when a new job ist posted.
 
 * **\#jobs** - All new jobs are posted to this channel.
 
@@ -48,12 +48,16 @@ If you're only interested in jobs in Berlin, Hamburg, Frankfurt, or München, or
 
 ### Jobs by technologies/skills
 
-* **\#jobs-cms**
-* **\#jobs-devops**
-* **\#jobs-ecommerce**
-* **\#jobs-pm-agile**
-* **\#jobs-ui-ux**
-* **\#jobs-be**
+If you're interested in jobs that have a requirement for a specific technology or skill, join one of these channels.
+
+Note that the channels **\#jobs-be**, **\#jobs-fe**, and **\#jobs-mb** will receive all job postings from their sub-groups, i.e. every job posted to **\#jobs-be-ruby** will also be posted to **\#jobs-be**.
+
+* **\#jobs-cms** - Jobs with a focus on CMS \(WordPress, Joomla, Drupal, TYPO3, etc.\)
+* **\#jobs-devops** - Jobs with a focus on DevOps \(Docker, Kubernetes, AWS, GCP, etc.\)
+* **\#jobs-ecommerce -** Jobs with a focus on e-commerce \(Magento, WooCommerce, Shopify, etc.\)
+* **\#jobs-pm-agile** - Jobs for PMs, Scrum Masters, Agile Coaches etc.
+* **\#jobs-ui-ux** - Jobs with a focus on UI/UX design
+* **\#jobs-be** - Jobs with a focus on backend development
 * **\#jobs-be-cpp**
 * **\#jobs-be-dotnet**
 * **\#jobs-be-go**
