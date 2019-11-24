@@ -32,15 +32,19 @@ The following public channels are open for all members:
 
 ## Job channels
 
-* **\#jobs**
+Once a new job is published, it is posted to one or \(most of the times\) more job channels, where all members can apply for it. As a member, you can simply join the channels you are interested in \(e.g., if you'd only like to hear about jobs with React.js or Java, join **\#jobs-fe-react** and **\#jobs-be-java**\) and you will receive a mobile or desktop notification from Slack when a new job ist posted.
+
+* **\#jobs** - All new jobs are posted to this channel.
 
 ### Jobs by location
 
-* **\#jobs-berlin**
-* **\#jobs-hamburg**
-* **\#jobs-frankfurt**
-* **\#jobs-muenchen**
-* **\#jobs-remote**
+If you're only interested in jobs in Berlin, Hamburg, Frankfurt, or München, or full-remote jobs, join one of these channels:
+
+* **\#jobs-berlin** - Jobs in Berlin
+* **\#jobs-hamburg** - Jobs in Hamburg
+* **\#jobs-frankfurt** - Jobs in Frankfurt
+* **\#jobs-muenchen** - Jobs in München
+* **\#jobs-remote** - Jobs that can be done completely remotely
 
 ### Jobs by technologies/skills
 
