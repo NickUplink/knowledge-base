@@ -16,7 +16,7 @@
 * [For companies](companies/README.md)
   * [Our pricing](companies/our-pricing.md)
   * [Finding a freelancer](companies/finding-a-freelancer.md)
-  * [Company area](companies/company-area.md)
+  * [Company area](companies/company-backend.md)
   * [Working with a freelancer](companies/working-with-a-freelancer.md)
 * [About us](about-us/README.md)
   * [Our values](about-us/our-values.md)

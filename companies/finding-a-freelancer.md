@@ -32,5 +32,5 @@ description: >-
 * Via our client backend
 * You only have 48 hours to respond \(why?\)
 
-## Why is the time to respond to a freelancer introduction limited?
+## Why do I only have a limited time to respond to a freelancer introduction?
 
