@@ -34,11 +34,13 @@ description: >-
 
 ## Why do I only have a limited time to respond to a freelancer introduction?
 
-Before we introduce a freelancer to you, we talk to them in detail about the project, the required skills. and the conditions \(onsite/remote, fulltime/parttime etc.\). The freelancer also tells us, from when on and for how long she will be available.
+Before we introduce a freelancer to you, we talk to them in detail about the project, the required skills. and the conditions \(onsite/remote, fulltime/parttime, start date, duration etc.\). When the freelancer then tells us that he is interested and available, we need to act quickly and schedule a first interview!
 
-For that reason, the introduction normally expires after 48 hours \(unless a different period has been agreed upon\).
+The main reason is that, most of the time, the freelancer is talking to multiple clients at the same time, so the faster a first interview can be arranged \(and an offer can be made afterwards\), the better! Responding quickly to our introduction of a freelancer shows that you value his time and commitment, and are ready to go ahead with the project.
 
-It can always happen that you need more time, in which case we ask you to let us know via the "I need more time" button that is visible above the freelancer profile. Please don't let the introduction expire, since the freelancer is waiting for feedback from you!
+**For those reasons, our introductions normally expire after 48 hours \(weekends and holidays excluded\).**
+
+It can always happen that you need more time, in which case we ask you to let us know via the "I need more time" button that is visible above the freelancer profile. Please don't let the introduction expire without acting, since the freelancer is waiting for feedback from you!
 
 
 
