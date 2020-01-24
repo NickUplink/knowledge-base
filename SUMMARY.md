@@ -3,6 +3,7 @@
 * [Welcome!](README.md)
 * [For freelancers](freelancers/README.md)
   * [Joining Uplink](freelancers/joining-uplink.md)
+  * [Job arrangements](freelancers/job-arrangements.md)
   * [Applying for a job](freelancers/applying-for-a-job.md)
   * [Our commission](freelancers/our-commission.md)
   * [Our Slack workspace](freelancers/our-slack-workspace.md)
