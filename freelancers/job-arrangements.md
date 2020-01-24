@@ -1,5 +1,5 @@
 ---
-description: You will see two types of jobs on our platform.
+description: 'You will see two types of jobs on our platform: direct and through a middleman'
 ---
 
 # Job arrangements
