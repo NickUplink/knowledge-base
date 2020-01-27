@@ -10,13 +10,13 @@ description: 'Slack has become our "club house", where all threads come together
 
 The following public channels are open for all members:
 
-* **\#general** - General chit-chat, ideas, questions, banter… don’t hold back!
+* **\#announcements** - Official announcements from the Uplink team. Only admins can post in this channel, but everyone can \(and is encouraged to\) comment in a thread on the announcements!
 * **\#business** - Let’s talk about taxes, finances, insurance, freelancer registration and company incorporation! Feel free to ask for help if you’re new to the game!
 * **\#events** - Are you planning to attend a meetup or conference soon? Let the other Uplink members know! Upcoming Uplink meetups and events will also be posted here.
 * **\#ideas** - Do you have an idea for a new project/service/business? Share it here to get feedback!
 * **\#investing** - Chat about where to be invest your hard-earned money, be it in stocks, bonds, ETF, crypto etc.
 * **\#labs** - If you’re interested to hear what the Uplink team is working on and give feedback on ideas for new features, join this channel!
-* **\#random** - Post anything not directly related to freelancing, business or developing here. Fun links, memes, challenges…
+* **\#lounge** - Fun stuff, discussions about life and the universe, screenshots of the most absurd recruiter requests, and everything else non-business related.
 * **\#tech-backend -** Let’s talk about backend development! Languages, frameworks, concepts etc.
 * **\#tech-blockchain -** Let’s talk about Blockchain development! BTC, ETH, Solidity etc.
 * **\#tech-devops -** Let’s talk about DevOps! CI/CD, Docker, Kubernetes, etc.
