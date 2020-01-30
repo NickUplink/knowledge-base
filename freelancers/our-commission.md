@@ -6,7 +6,7 @@ description: >-
 
 # Our commission
 
-If you find a new client via Uplink, we charge you a commission of 10% of what you invoice the client, for the first 6 months of your collaboration.
+For [direct jobs](https://kb.uplink.tech/freelancers/job-arrangements#direct), meaning that you work directly for the client who posted the job with us, we charge you a commission of 10% of what you invoice the client, for the first 6 months of your collaboration.
 
 To that end, we ask you to send us the invoices you issue to the client, either via Slack in the channel that was created for your application \(our preferred way\) or via email to [invoices@uplink.tech](mailto:invoices@uplink.tech). We will then send you our invoice for the commission 
 
