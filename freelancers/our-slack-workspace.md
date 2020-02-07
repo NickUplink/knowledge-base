@@ -34,7 +34,7 @@ The following public channels are open for all members:
 
 Once a new job is published, it is posted to one or \(most of the time\) multiple job channels, where all members can apply for it. As a member, you can simply join the channels you are interested in \(e.g., if you'd only like to hear about jobs with React.js or Java, join **\#jobs-fe-react** and **\#jobs-be-java**\) and you will receive a mobile or desktop notification from Slack when a new job ist posted.
 
-* **\#jobs** - All new jobs are posted to this channel.
+**\#jobs** is the main channel where all new jobs are posted to. If you really would like to be notified of every new job, no matter where the client is located or which skills are required, join this channel!
 
 ### Jobs by location
 
@@ -44,7 +44,7 @@ If you're only interested in jobs in Berlin, Hamburg, Frankfurt, or München, or
 * **\#jobs-hamburg** - Jobs in Hamburg
 * **\#jobs-frankfurt** - Jobs in Frankfurt
 * **\#jobs-muenchen** - Jobs in München
-* **\#jobs-remote** - Jobs that can be done completely remotely
+* **\#jobs-remote** - Jobs that can be done completely remotely \(apart from possibly a kickoff meeting at the client's office\)
 
 ### Jobs by technologies/skills
 
@@ -75,9 +75,18 @@ Note that the channels **\#jobs-be**, **\#jobs-fe**, and **\#jobs-mb** will rece
 * **\#jobs-mb-ios**
 * **\#jobs-mb-hybrid**
 
-## Applying for a job
+### **Community jobs**
 
-Nowadays, almost all job applications are done via Slack, since the process is so much smoother with our optimized workflow than it is via email!
+If you'd like to hear about jobs from other freelancers, join **\#jobs-community**!
+
+Unlike the other job channels, **\#jobs-community** is open for everyone to post. If you have a personal project, but are missing the skills or time to work on it, or if you're working on a client project that you could need some help with, this is where you can find another freelancer from the community to work together with.
+
+If you post in this channel, please keep a few things in mind:
+
+* Be prepared to pay a market rate for the skills you're looking for. As a rule of thumb, it shouldn't be much less than what you would accept yourself if you were offered the job.
+* Describe the tasks as detailed as possible to make the job appealing.
+* Mention whether you'd like to meet the other freelancer or whether they can work completely remotely. Of course, jobs that can be done 100% remotely are much more attractive.
+* Mention how interested freelancer should contact you. The easiest is "PM me for details" of course.
 
 ## Restrictions
 
