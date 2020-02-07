@@ -87,6 +87,7 @@ If you post in this channel, please keep a few things in mind:
 * Describe the tasks as detailed as possible to make the job appealing.
 * Mention whether you'd like to meet the other freelancer or whether they can work completely remotely. Of course, jobs that can be done 100% remotely are much more attractive.
 * Mention how interested freelancer should contact you. The easiest is "PM me for details" of course.
+* Use [@channel](https://slack.com/intl/de-de/help/articles/202009646-Notify-a-channel-or-workspace) to notify all members in the channel of your post.
 
 ## Restrictions
 
