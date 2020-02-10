@@ -31,3 +31,11 @@ The whole process consists of these steps:
 
 After that point, we are not directly involved anymore, but of course always available for questions and happy to help out if problems should occur. Once you have finished the interview, we ask you to let us know how it went and what the next steps are.
 
+## What happens if there are multiple matching candidates?
+
+With most clients we agree to only introduce one candidate at a time. Only if the client rejects a candidate will we introduce the next one.
+
+This means that, if there are multiple candidates and – based on what we know about the client, project, and candidates – they are equally well suited for the job, we have to pick one and tell the other ones that we will not introduce them for now. Everything else being equal, we apply the "first come, first serve" principle: if you applied to the job earlier than another candidate, and you're both matching candidates, you will be introduced first.
+
+We try to avoid these situations altogether by closing a job for new applications as soon as we feel that we have enough candidates to choose from. Whether is is after two, three, or more candidates is always a decision we have to take on a case-by-case basis.
+

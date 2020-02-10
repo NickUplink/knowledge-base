@@ -89,6 +89,8 @@ If you post in this channel, please keep a few things in mind:
 * Mention how interested freelancers should contact you. The easiest is "PM me for details" of course.
 * Use [@channel](https://slack.com/intl/de-de/help/articles/202009646-Notify-a-channel-or-workspace) to notify all members in the channel of your post.
 
+You should **not** post in this channel if you simply received a job offer from a client that you don't want to take on! [Instead, you should refer the client to us!](https://kb.uplink.tech/freelancers/referring-a-client)
+
 ## Restrictions
 
 Since we're on the free plan, we have a few restrictions:
