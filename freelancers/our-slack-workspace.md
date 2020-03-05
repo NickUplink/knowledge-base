@@ -99,5 +99,13 @@ Since we're on the free plan, we have a few restrictions:
 
 ### No email notifications after a period of inactivity
 
-When a Slack user is not \(or only very little\) active in a Slack workspace for 14 days, the user will be marked as "inactive". If another 60 days go by without the user becoming "active" again, Slack stops sending him/her email notifications for this workspace.
+Slack wants to make sure that users do not receive email notifications from workspaces that they don't regularly visit.
+
+To that end, users are tagged as 'inactive' if they show no \(or only very little\) activity in a workspace for 14 days. If another 60 days go by without activity, Slack stops sending the user email notifications for this workspace.
+
+The way that Slack defines 'showing activity' is very specific - sending at least 10 messages in a 7 day period, or at least 9 actions on 3 days within a 7 day period. An action could be reading a message in a channel, changing the channel, or creating a post.
+
+So if you don't receive any email notifications from our workspace anymore, most likely Slack has tagged you as 'inactive'. **This can happen even if you log in regularly, read messages, or even post messages yourself, since you might still end up under the 'showing activity' threshold explained before!**
+
+**The easiest way to make sure that your account is set to 'active' and you're receiving email notifications is to** [**send 10 quick messages to yourself**](https://slack.com/help/articles/219899267-Save-notes-and-files-in-your-personal-DM)**. Yes, this actually works! \(confirmed by Slack support\)**
 
