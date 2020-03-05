@@ -15,6 +15,7 @@
   * [Meetups](freelancers/meetups.md)
   * [Cooperations](freelancers/cooperations.md)
 * [For companies](companies/README.md)
+  * [Why Uplink?](companies/why-uplink.md)
   * [Our pricing](companies/our-pricing.md)
   * [Finding a freelancer](companies/finding-a-freelancer.md)
   * [Company area](companies/company-area.md)

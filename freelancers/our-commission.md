@@ -16,8 +16,6 @@ This is the question we hear most often - why don't we invoice the company for o
 
 We argue that this would not in your best interest as a freelancer.
 
-
-
 The advantage for the client is that they don't have to sign a contract with us and will never get a separate invoice from us, which makes it very attractive for them to post their jobs through Uplink.
 
 In the end, it mostly doesn't matter who pays the fees though, since the companies know we charge the freelancers a commission and most freelancers add it on top of their rate.

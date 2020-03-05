@@ -1,18 +1,22 @@
+---
+description: >-
+  Uplink was founded with a few core values that are often missing in the IT
+  recruiting industry: transparency, trust, and expertise.
+---
+
 # Our values
 
-Uplink was founded with the goal of offering freelancers a simple, fair and transparent alternative to classic IT recruiters. Therefore, we decided to do some things very differently from how they do them:
+## **Transparency**
 
-* **We are as open and transparent as possible.** This means we pass on all information that we have about a client or project to you, as early as possible. If we see any problems, we warn the freelancers \(or don't take on the client in the first place\). If we know any other freelancers who work or worked for the client, we try to connect them to new candidates early on.
-* **We charge the freelancers instead of the clients.** As the old saying goes "If you are not paying for it, you're not the customer; you're the product being sold." Every recruiter who only charges the company \(either one-time or regularly on top of your rate\) is incentivized to see them as the paying client and you as the product \(or 'resource'\) being sold, and act accordingly. We try to reverse these incentives by making you, the freelancers, our paying clients.
-* **We don't squeeze in between you and the client.** You make a contract \(or handshake agreement, if you prefer\) and issue your invoices directly to the client.
+Most IT recruiters will not voluntary tell you which client they are recruiting for, before you sign some kind of NDA or other contract with them. Some go so far as to try and forward your profile to the client without telling you who it is. Why do they do that? Because it's in their best interest to keep things as intransparent as possible. The fewer people know that a specific client is recruiting for a specific position, the less likely it is that a freelancer will just skip the recruiter and contact the client themselves, or that other recruiters introduce their candidates to the client.
 
-## Open and Transparent
+The same is true for the commission the recruiter charges. If possible, the freelancer should not know what the client is paying the recruiter. Again, the reason is simple - when the freelancer finds out that the recruiter is adding 30%, 40% or 50% on their rate, they might realize what the client is willing to pay for their services and try to circumvent the recruiter to be able to charge the client that rate themselves.
 
-## Design from Trust
+## **Trust**
 
 {% embed url="https://www.designfromtrust.com" %}
 
 {% embed url="https://www.youtube.com/watch?v=k5MfuwMNcMo" %}
 
-
+## Expertise
 
