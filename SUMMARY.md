@@ -1,7 +1,8 @@
 # Table of contents
 
-* [Welcome!](README.md)
+* [Welcome to the Uplink Knowledge Base!](README.md)
 * [For freelancers](freelancers/README.md)
+  * [Why Uplink?](freelancers/why-uplink.md)
   * [Joining Uplink](freelancers/joining-uplink.md)
   * [Job arrangements](freelancers/job-arrangements.md)
   * [Applying for a job](freelancers/applying-for-a-job.md)
@@ -22,5 +23,4 @@
   * [Working with a freelancer](companies/working-with-a-freelancer.md)
 * [About us](about-us/README.md)
   * [Our values](about-us/our-values.md)
-  * [The differences between Uplink and ...](about-us/the-differences-between-uplink-and.md)
 
