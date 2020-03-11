@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to the Uplink Knowledge Base!](README.md)
+* [Welcome!](README.md)
 * [For freelancers](freelancers/README.md)
   * [Why Uplink?](freelancers/why-uplink.md)
   * [Joining Uplink](freelancers/joining-uplink.md)

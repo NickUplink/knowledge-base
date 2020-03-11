@@ -2,7 +2,7 @@
 description: "\U0001F44B Howdy! You came to the right place to learn everything about how the Uplink freelancer community works."
 ---
 
-# Welcome to the Uplink Knowledge Base!
+# Welcome!
 
 ## What is Uplink?
 
